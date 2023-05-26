@@ -36,7 +36,6 @@ body * {
 #container {
   width: 360px;
   height: 712px;
-  border: 1px solid red;
   margin: 0 auto;
   padding: 0 24px;
 }
@@ -143,7 +142,6 @@ ul li a:hover {
 }
 
 footer {
-  border: 1px red solid;
   text-align: center;
   padding: 24px 0;
   font-size: 14px;
