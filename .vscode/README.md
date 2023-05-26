@@ -39,10 +39,10 @@ Esse projeto é de um site que funciona como um agregador de outros sites, permi
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
- Licença
+Licença
 
 Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Sutter 
+Feito com ♥ by Sutter
