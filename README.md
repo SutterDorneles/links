@@ -1,5 +1,5 @@
 
-permalink: /index.html
+permalink: ../index.html
 
 <h1 align="center"> Site de links de Sutter Dorneles</h1>
 
